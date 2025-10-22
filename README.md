@@ -33,7 +33,7 @@ It analyzes factors such as income, CIBIL score, education, and asset values to 
 | `loan_status`              | Target variable: Approved / Rejected                  |
 
 ---
-###🧠 Models Used
+### 🧠 Models Used
 The notebook (code.ipynb) implements and compares multiple algorithms:
 Logistic Regression	
 Support Vector Machine	
